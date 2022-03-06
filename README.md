@@ -4,7 +4,7 @@ This program was written to familiarize myself with how communications can be es
 and supports a few commands. To start the server, the server.py file must be run, and then at that point a client can connect by running the client.py file in a separate window
 or on another computer. At this point, the client will be welcomed and they can either send messages, or use a few commands (/quit, /time, or /name).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nAwYSkl3iAU)
 
 # Network Communication
 
